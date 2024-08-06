@@ -1,0 +1,6 @@
+# Ignorar ficheros .log
+*.log
+# Ignorar carpeta Imagenes
+/imagenes/
+# Ignorar un fichero
+*readme.txt
